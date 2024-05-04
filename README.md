@@ -1,1 +1,2 @@
-# Spotofy-Clone
+# Spotify-Clone
+here is spotify frontend clone
