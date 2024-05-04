@@ -1,2 +1,2 @@
 # Spotify-Clone
-here is spotify frontend clone
+here is the spotify frontend web design
